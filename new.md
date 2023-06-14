@@ -1,3 +1,6 @@
 Live is good
 :wq
-:q
+
+:
+q
+correct
